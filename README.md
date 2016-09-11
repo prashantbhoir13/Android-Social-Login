@@ -16,18 +16,6 @@ Version 1.0
 ```
 #!android
 
-repositories {
-    maven {
-        url  "http://dl.bintray.com/prashantbhoir13/SocialLogin"
-    }
-}
-```
-
-
-
-```
-#!android
-
 dependencies {
     compile 'com.pkb.sociallogin:sociallogin:1.0'
 }
